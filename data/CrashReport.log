@@ -1,0 +1,30 @@
+WARNING:root:INFLITATOR has crashed. Please send this report to Zanvok Corporation.
+ERROR:root:Error message: 
+Traceback (most recent call last):
+  File "C:\Git\Game Store\PC\Inflitator\MAIN.py", line 408, in main_loop
+    menuController.control()
+  File "C:\Git\Game Store\PC\Inflitator\MENU.py", line 138, in control
+    self.creditsMenu.draw(self.canvas, self.shut_up)
+  File "C:\Git\Game Store\PC\Inflitator\MENU.py", line 573, in draw
+    self.contributors2.draw(canvas)
+AttributeError: 'CreditsMenu' object has no attribute 'contributors2'
+WARNING:root:INFLITATOR has crashed. Please send this report to Zanvok Corporation.
+ERROR:root:Error message: 
+Traceback (most recent call last):
+  File "C:\Git\Game Store\PC\Inflitator\MAIN.py", line 408, in main_loop
+    menuController.control()
+  File "C:\Git\Game Store\PC\Inflitator\MENU.py", line 138, in control
+    self.creditsMenu.draw(self.canvas, self.shut_up)
+  File "C:\Git\Game Store\PC\Inflitator\MENU.py", line 573, in draw
+    self.contributors2.draw(canvas)
+AttributeError: 'CreditsMenu' object has no attribute 'contributors2'
+WARNING:root:INFLITATOR has crashed. Please send this report to Zanvok Corporation.
+ERROR:root:Error message: 
+Traceback (most recent call last):
+  File "C:\Git\Game Store\PC\Inflitator\MAIN.py", line 408, in main_loop
+    menuController.control()
+  File "C:\Git\Game Store\PC\Inflitator\MENU.py", line 138, in control
+    self.creditsMenu.draw(self.canvas, self.shut_up)
+  File "C:\Git\Game Store\PC\Inflitator\MENU.py", line 573, in draw
+    self.contributors2.draw(canvas)
+AttributeError: 'CreditsMenu' object has no attribute 'contributors2'
